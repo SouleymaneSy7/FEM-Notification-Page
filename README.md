@@ -67,8 +67,8 @@ This is the Screenshot of my work!
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL here](https://www.frontendmentor.io/solutions/notification-page-responsive-vue-js-composition-api-sass-u5n5nY1r77)
+- Live Site URL: [Live site URL here](https://fem-notification-page-e1vvc5v6y-souleymanesy7.vercel.app/)
 
 ## Author
 
