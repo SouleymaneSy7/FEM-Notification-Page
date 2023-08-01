@@ -18,7 +18,10 @@
       :class="mark == true ? 'marked' : ''"
     >
       <div class="notification__img">
-        <img src="../../avatar-mark-webber.webp" alt="Men Profile Picture" />
+        <img
+          src="../assets/images/avatar-mark-webber.webp"
+          alt="Men Profile Picture"
+        />
       </div>
 
       <div class="notification__info">
@@ -43,7 +46,10 @@
       :class="mark == true ? 'marked' : ''"
     >
       <div class="notification__img">
-        <img src="../../avatar-angela-gray.webp" alt="Woman Profile Picture" />
+        <img
+          src="../assets/images/avatar-angela-gray.webp"
+          alt="Woman Profile Picture"
+        />
       </div>
 
       <div class="notification__info">
@@ -65,7 +71,10 @@
       :class="mark == true ? 'marked' : ''"
     >
       <div class="notification__img">
-        <img src="../../avatar-jacob-thompson.webp" alt="Man Profile Picture" />
+        <img
+          src="../assets/images/avatar-jacob-thompson.webp"
+          alt="Man Profile Picture"
+        />
       </div>
 
       <div class="notification__info">
@@ -87,7 +96,7 @@
       <div class="flex">
         <div class="notification__img">
           <img
-            src="../../avatar-rizky-hasanuddin.webp"
+            src="../assets/images/avatar-rizky-hasanuddin.webp"
             alt="Man Profile Picture"
           />
         </div>
@@ -117,7 +126,7 @@
     <section class="notification">
       <div class="notification__img">
         <img
-          src="../../avatar-kimberly-smith.webp"
+          src="../assets/images/avatar-kimberly-smith.webp"
           alt="Woman Profile Picture"
         />
       </div>
@@ -134,7 +143,7 @@
       </div>
 
       <div class="commented-img">
-        <img src="../../image-chess.webp" alt="Chess Image" />
+        <img src="../assets/images/image-chess.webp" alt="Chess Image" />
       </div>
     </section>
 
@@ -142,7 +151,7 @@
     <section class="notification">
       <div class="notification__img">
         <img
-          src="../../avatar-nathan-peterson.webp"
+          src="../assets/images/avatar-nathan-peterson.webp"
           alt="Man Profile Picture"
         />
       </div>
@@ -165,7 +174,10 @@
     <!-- Notification 7 -->
     <section class="notification">
       <div class="notification__img">
-        <img src="../../avatar-anna-kim.webp" alt="Woman Profile Picture" />
+        <img
+          src="../assets/images/avatar-anna-kim.webp"
+          alt="Woman Profile Picture"
+        />
       </div>
 
       <div class="notification__info">
